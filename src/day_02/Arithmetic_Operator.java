@@ -20,7 +20,7 @@ public class Arithmetic_Operator {
 		System.out.println(" divison of a and b is : "+(a/b));
 		System.out.println(" Modulus of a and b is : "+(a%b));
 		
-	
+	System.out.println("Arithmetic program");
 		
 		
 		
